@@ -1,34 +1,34 @@
 # Java Tasks
 
 ## Task 1: Strings
-- Check if the given string is a palindrome.
+Check if the given string is a palindrome.
 
 ## Task 2: Loops
-- Find the nth number of the Fibonacci sequence.
+Find the nth number of the Fibonacci sequence.
 
 ## Task 3: Arrays
-- Implement the Bubble Sort algorithm to sort an integer array.
+Implement the Bubble Sort algorithm to sort an integer array.
 
 ## Task 4: Multidimensional Arrays, Loops
-- Calculate the sum of the diagonal elements of a matrix.
+Calculate the sum of the diagonal elements of a matrix.
 
 ## Task 5: Recursion
-- Calculate the factorial of a given number using recursion.
+Calculate the factorial of a given number using recursion.
 
 ## Task 6: Text Manipulation
-- Modify the given string to keep only unique words (non-unique words are deleted except for the first copy).
+Modify the given string to keep only unique words (non-unique words are deleted except for the first copy).
 
 ## Task 7: Loops, Binary Format
-- Convert a decimal number to binary format without using built-in methods.
+Convert a decimal number to binary format without using built-in methods.
 
 ## Task 8: Algorithms
-- Write a program that uses the sieve of Eratosthenes to find all prime numbers up to a given integer *n*.
+Write a program that uses the sieve of Eratosthenes to find all prime numbers up to a given integer *n*.
 
 ## Task 9: Roman Empire
-- Implement Caesar Cipher encryption and decryption algorithm. Your implementation should be able to encrypt and decrypt a string with an offset provided.
+Implement Caesar Cipher encryption and decryption algorithm. Your implementation should be able to encrypt and decrypt a string with an offset provided.
 
 ## Task 10: More Roman Empire
-- Convert a Roman numeral string to an integer.
+Convert a Roman numeral string to an integer.
 
 #### More About Roman Numbers:
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D, and M.
